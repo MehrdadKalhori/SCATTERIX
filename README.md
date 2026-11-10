@@ -75,4 +75,28 @@ See `CITATION.cff`. After reviewing and verifying the code and output, create a 
 
 ---
 
+
+## Related Research Software
+
+### Anisotropy Factor (g) Calculator
+
+SCATTERIX is an optical goniometry platform for acquiring and analyzing experimental angular light-scattering measurements.
+
+For research focused on evaluating the scattering anisotropy factor (g), see the related software project:
+
+**Anisotropy Factor (g) Calculator**
+
+- [GitHub Repository](https://github.com/MehrdadKalhori/Anisotropy-Factor-g-Calculator)
+- [DOI: 10.5281/zenodo.24118450](https://doi.org/10.5281/zenodo.24118450)
+
+Both projects contribute to computational tools for photonics and optical scattering research.
+
+### SCATTERIX Citation
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24118358.svg)](https://doi.org/10.5281/zenodo.24118358)
+
+---
+
+Crafted by Mehrdad Y. Kalhori, straight out of the Wild West of Lorestan, Iran 🤠
+
 *Crafted by Mehrdad Y. Kalhori, straight out of the Wild West of Lorestan, Iran 🤠*
