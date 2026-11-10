@@ -1,5 +1,7 @@
 # Blood Optical Goniometer
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24118358.svg)](https://doi.org/10.5281/zenodo.24118358)
+
 **An Arduino-controlled, Python-operated optical goniometry workflow for angle-resolved light-scattering measurements of blood samples.**
 
 **Research software / experimental release candidate — not yet independently validated on the complete V10 hardware chain.** This repository packages the current motor firmware and the V10 acquisition/analysis interface. Results should not be treated as independently validated optical coefficients without the relevant calibrations and physical assumptions.
