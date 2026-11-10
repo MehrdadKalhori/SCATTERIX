@@ -1,15 +1,12 @@
 cff-version: 1.2.0
-message: "If you use this software in a publication, please cite the archived release or this repository version."
-type: software
-title: "Blood Optical Goniometer: Arduino Control and Python-Based Angular Scattering Acquisition"
+message: "If you use SCATTERIX, please cite this software."
+title: "SCATTERIX: Optical Goniometry Research Platform"
 authors:
   - family-names: "Kalhori"
     given-names: "Mehrdad Y."
-version: "0.1.0"
-abstract: "Research software for stepper-motor-driven optical goniometry, buffered data acquisition and exploratory angular scattering analysis."
-keywords:
-  - optical goniometer
-  - light scattering
-  - Python
-  - Arduino Mega
-  - research software
+version: 1.0.0
+doi: 10.5281/zenodo.24118358
+date-released: 2026-11-10
+repository-code: "https://github.com/MehrdadKalhori/SCATTERIX"
+type: software
+
