@@ -1,0 +1,5 @@
+pyserial
+numpy
+scipy
+openpyxl
+# Advantech DAQNavi/BDaq SDK is installed separately from the vendor.

@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software in a publication, please cite the archived release or this repository version."
+type: software
+title: "Blood Optical Goniometer: Arduino Control and Python-Based Angular Scattering Acquisition"
+authors:
+  - family-names: "Kalhori"
+    given-names: "Mehrdad Y."
+version: "0.1.0"
+abstract: "Research software for stepper-motor-driven optical goniometry, buffered data acquisition and exploratory angular scattering analysis."
+keywords:
+  - optical goniometer
+  - light scattering
+  - Python
+  - Arduino Mega
+  - research software

@@ -1,0 +1,6 @@
+SHA256 of packaged firmware and V10 application files:
+dcd841ee583cdacfa665e0b9017246a5ae1071c5e39257c45d51a8add42f0076  arduino/Goniometer_Master_Mega/Goniometer_Master_Mega.ino
+c15fe51e596dd2576f9be8b9c512f59863ef2154a0cef5c29df350eddfa2cfd1  python/Goniometer_Lab_V10_Stable.py
+eb54132bc6d1be1fb9dd19d4429e6b463f345d8cd073cc139daf9197df6e9515  python/Goniometer_Lab_V10_Stable.ipynb
+
+Crafted by Mehrdad Y. Kalhori, straight out of the Wild West of Lorestan, Iran 🤠
